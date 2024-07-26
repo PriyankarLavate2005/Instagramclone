@@ -1,0 +1,13 @@
+mpx create react-app myapp
+npm create vite@latest
+npm cd myapp
+npm install
+npm run dev
+#>> for setting up React js
+jsx is html like syntax
+common js moduling =>express() means react
+ES moduling=> import
+default and named export
+
+
+
